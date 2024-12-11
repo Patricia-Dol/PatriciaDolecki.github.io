@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Patricia Dolecki Protfolio
+title      : My Protfolio
 email      : patricia.dolecki@gmail.com #this is also the email contact forms will go to
 description: "I am a Computer Science student with a passion for programming, game design, and problem-solving, eager to create innovative solutions."
 author     : Patricia Dolecki
