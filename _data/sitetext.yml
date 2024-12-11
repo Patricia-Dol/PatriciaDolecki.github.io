@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Welcome to my protfolio!
+    text: Patricia Dolecki
+    button: Know more
     buttonlink: "#services"
 
   services:
@@ -59,19 +59,21 @@ en: &DEFAULT_EN
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+      #- title: "Title"
+      #  year: "2009-2011"
+      #  desc: "Your description here, **Markdown** is fully supported."
+      #  image: assets/img/timeline/4.jpg
+      #  alt:
+      #  # you can enforce the alignment
+      #  align: right
+    end: "To <br> be <br> Continued!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About Me"
+    text: "Patricia Dolecki"
+    body: "I am a Computer Science student at John Abbott College with a strong foundation in programming languages such as C#, Python, and JavaScript, and experience in game development using Unity. I am passionate about algorithms, hardware, and creating efficient, innovative solutions to complex problems.
+
+My participation in hackathons, game jams, and programming clubs has allowed me to refine my technical skills and explore creative applications of computer science. I am eager to contribute to projects that combine cutting-edge technology, problem-solving, and collaboration."
     section: about
 
   team:
