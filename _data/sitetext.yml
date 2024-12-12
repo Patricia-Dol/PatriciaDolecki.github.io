@@ -30,7 +30,7 @@ en: &DEFAULT_EN
       - title: "Computer Science"
         desc: "Your description here, full **Markdown** support"
         icon: fas fa-laptop
-#[Markdown](https://en.wikipedia.org/wiki/Markdown)
+
   portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
