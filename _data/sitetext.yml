@@ -12,8 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to my portfolio!
-    text: Patricia Dolecki
-    subtitle: patricia.dolecki@gmail.com
+    text: Patricia Dolecki <br> patricia.dolecki@gmail.com
     button: Know more
     buttonlink: "#services"
 
@@ -104,7 +103,6 @@ My participation in hackathons, game jams, and programming clubs has allowed me 
         icon: "fab fa-linkedin-in"
       - url: https://github.com/Patricia-Dol
         icon: "fab fa-github"
-      - title: patricia.dolecki@gmail.com
 en-US:
   <<: *DEFAULT_EN
 en-CA:
