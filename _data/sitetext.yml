@@ -11,8 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to my protfolio!
+    title: Welcome to my portfolio!
     text: Patricia Dolecki
+    subtitle: patricia.dolecki@gmail.com
     button: Know more
     buttonlink: "#services"
 
@@ -22,13 +23,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Highschool"
-        desc: "High School, 2021 <br> École Secondaire Chêne-Bleu."
+        desc: "High School, 2021 <br> École Secondaire du Chêne-Bleu."
         icon: fas fa-school #find more at https://fontawesome.com/icons
       - title: "Social Science"
         desc: "Social Science, 2022 <br> John Abbott College."
         icon: fas fa-book
       - title: "Computer Science"
-        desc: "Coputer Science, 2022 <br> John Abbott College."
+        desc: "Computer Science, 2025 <br> John Abbott College."
         icon: fas fa-laptop
 
   portfolio:
@@ -46,18 +47,18 @@ en: &DEFAULT_EN
     events:
       - title: "Seasonal Sales and Cashier"
         year: "2022 to 2023"
-        desc: "Sold products to customers and took care of their purchases. I also restock the shelves and organize inventory."
+        desc: "Sold products to customers and took care of their purchases. I also restocked the shelves and organized inventory."
         image: assets/img/timeline/bbw.png
         alt: image alt text
 
       - title: "Lifeguard"
         year: "2023 to Now"
-        desc: "Monitored safety of guests in and around swimming pool.I also gave swimming lessons to children and adults"
+        desc: "Monitored safety of guests in and around swimming pool. I also gave swimming lessons to children and adults"
         image: assets/img/timeline/pool.jpg
         alt:
       - title: "Camp Counselor"
         year: "2020 to Now"
-        desc: "Took care of neurodivergent children that stay for a weekend (including night's), during the school year. Worked with children of varying ages (6 to 14), interest, skill, and
+        desc: "Took care of neurodivergent children that stay for a weekend (including nights), during the school year. Worked with children of varying ages (6 to 14), interest, skill, and
 developmental levels. For the past 2 summers, I was the head monitor. Took care of
 organizing and planning the major games and activities for the camp."
         image: assets/img/timeline/fatima.png
@@ -74,7 +75,7 @@ My participation in hackathons, game jams, and programming clubs has allowed me 
 
   team:
     title: "Activities"
-    text: "Computer science related activies that i took part in!"
+    text: "Computer science related activies that I took part in!"
     section: team
     people:
       - name: "Girls who code"

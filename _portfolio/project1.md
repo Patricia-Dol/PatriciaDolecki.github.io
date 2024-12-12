@@ -9,7 +9,7 @@ caption:
   subtitle: Wellness app
   thumbnail: assets/img/portfolio/moodify.jpg
 ---
-[Moodify Repository link](https://github.com/LauraaMolinaa/Moodify)
+[Moodify Repository Link](https://github.com/LauraaMolinaa/Moodify)
 
 **Moodify: Your Mental Wellness Companion**
 

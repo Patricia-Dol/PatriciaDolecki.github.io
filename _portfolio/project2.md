@@ -9,17 +9,17 @@ caption:
   subtitle: Five encryption and decryption techniques.
   thumbnail: assets/img/portfolio/security.jpg
 ---
-[Security Encryption repository link](https://github.com/LauraaMolinaa/security-project)
+[Security Encryption Repository Link](https://github.com/LauraaMolinaa/security-project)
 
 This repository provides examples of different encryption and embedding techniques. 
 
-Vigenère Cipher + ASCII Art Steganography
+Vigenère Cipher
 
 RSA Asymmetric Encryption (with OAEP Padding)
 
 Steganography 
 
-Song encryption (uses ceaser cipher and ascii)
+Song encryption (uses Ceaser Cipher and Ascii)
 
 AES encryption
 
