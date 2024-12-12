@@ -22,13 +22,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Highschool"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "High School, 2021 <br> École Secondaire Chêne-Bleu."
         icon: fas fa-school #find more at https://fontawesome.com/icons
       - title: "Social Science"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Social Science, 2022 <br> John Abbott College."
         icon: fas fa-book
       - title: "Computer Science"
-        desc: "Your description here, full **Markdown** support"
+        desc: "Coputer Science, 2022 <br> John Abbott College."
         icon: fas fa-laptop
 
   portfolio:
