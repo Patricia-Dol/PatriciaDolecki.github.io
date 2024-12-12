@@ -49,10 +49,11 @@ en: &DEFAULT_EN
         desc: "Sold products to customers and took care of their purchases. I also restock the shelves and organize inventory."
         image: assets/img/timeline/bbw.png
         alt: image alt text
+
       - title: "Lifeguard"
         year: "2023 to Now"
         desc: "Monitored safety of guests in and around swimming pool.I also gave swimming lessons to children and adults"
-        image: assets/img/timeline/pool.jpeg
+        image: assets/img/timeline/pool.jpg
         alt:
       - title: "Camp Counselor"
         year: "2020 to Now"
@@ -81,19 +82,19 @@ My participation in hackathons, game jams, and programming clubs has allowed me 
         image: assets/img/team/ghc.png
         social:
           - url: https://www.facebook.com/girlswhocodemcgill/
-            icon: fab fa-facebook-f
+            icon: fab fa-computer-mouse
       - name: "JacHacks"
         role: "The John Abbott College Hackathon, were my team coded an online art portfolio that incorporated AI."
-        image: assets/img/team/jacHacks.jpeg
+        image: assets/img/team/jacHacks.jpg
         social:
           - url: https://jachacks.pages.dev
-            icon: fab fa-twitter
+            icon: fab fa-computer-mouse
       - name: "Dingo GameJam"
         role: "Vanier GameJam where we have to code a game in 48h."
         image: assets/img/team/dingo.png
         social:
           - url: https://www.gamejamdingo.ca
-            icon: fab fa-twitter
+            icon: fab fa-computer-mouse
 
   footer:
     legal: "Privacy Policy"
