@@ -17,20 +17,20 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Education"
+    text: "My educational path"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Highschool"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+        icon: fas fa-school #find more at https://fontawesome.com/icons
+      - title: "Social Science"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        icon: fas fa-book
+      - title: "Computer Science"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
+        icon: fas fa-laptop
+#[Markdown](https://en.wikipedia.org/wiki/Markdown)
   portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
