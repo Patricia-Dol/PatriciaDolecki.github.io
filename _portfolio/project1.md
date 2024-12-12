@@ -11,44 +11,51 @@ caption:
 ---
 [Moodify Repository link](https://github.com/LauraaMolinaa/Moodify)
 
-Moodify is a health and wellness app that helps users track and improve their mental well-being.
+**Moodify: Your Mental Wellness Companion**
 
-It includes a mood tracker to log daily emotions, a gratitude diary to note three aspects of life you’re thankful for each day, and a personal journal for reflecting on thoughts and feelings.
+Moodify is a health and wellness app designed to help you track and improve your mental well-being. 
 
-Moodify encourages positivity and mindfulness as part of a daily routine.
+**Key Features:**
 
-The app also features a Resource Hub with mental health support options in Canada, such as hotlines and helpful websites.
+* **Mood Tracker:** 
+    * Express your daily emotions by selecting a color from a calming palette:
+        * Purple: Feeling Perfect
+        * Yellow: Feeling Happy
+        * Green: Feeling Okay
+        * Blue: Feeling Sad
+        * White: Feeling Anxious
+        * Red: Feeling Depressed
+* **Gratitude Journal:** 
+    * Cultivate a sense of appreciation by noting three things you're grateful for each day.
+* **Personal Journal:** 
+    * Reflect on your thoughts and feelings with the aid of AI-generated prompts.
+* **Resource Hub:** 
+    * Access a comprehensive list of mental health support options in Canada, including hotlines and helpful websites.
+* **Statistics Page:** 
+    * Gain valuable insights into your mental health trends over time:
+        * App usage adherence
+        * Overall mood of the month
+        * Visual representation of mood changes through a chart
+        * Personalized messages based on your monthly mood patterns
+* **Local Database:** 
+    * Securely store your mood entries, journal entries, and gratitude notes locally.
 
-A statistics page provides insights into trends and patterns in users' mental health over time.
+**Design:**
 
-With a calming design, Moodify offers a comforting space to promote emotional wellness and self-awareness!
+Moodify features a calming and user-friendly design, providing a comforting space for you to prioritize your emotional wellness and self-awareness.
 
-Application Scope
-Our app will have the following features:
+**Application Scope:**
 
-A main page with a button for each screen.
-
-The mood board where the user can enter a color representing their mood given a color palette. The user can choose:
-
-purple for feeling perfect
-yellow for feeling happy
-green for feeling okay
-blue for feeling sad
-white for feeling anxious
-red for feeling depressed
-Resources page with access to mental health support options.
-
-A diary coupled with three bullet points where you have to enter three things you are grateful for.
-
-A statics page where the user can see:
-
-their adherence to the app
-their general mood of the month
-a chart showing the moods of the month
-a personalized message according to the user's mood of the month
-A local database where the user's mood, diary entries, and bullet points will be saved.
-
-An AI feature that will help the user come up with diary prompts.
+* **Main Page:** 
+    * A central hub with buttons for easy navigation to each screen.
+* **Mood Board:** 
+    * Intuitive color selection for quick and easy mood tracking.
+* **Diary & Gratitude:** 
+    * Seamless integration of journal entries and gratitude reflections.
+* **Statistics:** 
+    * Clear and concise presentation of mental health data.
+* **AI Integration:** 
+    * Helpful AI-powered prompts to inspire and guide your journaling.
 
 {:.list-inline}
 - Date: January 2017
