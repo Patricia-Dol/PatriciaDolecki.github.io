@@ -47,12 +47,12 @@ en: &DEFAULT_EN
       - title: "Seasonal Sales and Cashier"
         year: "2022 to 2023"
         desc: "Sold products to customers and took care of their purchases. I also restock the shelves and organize inventory."
-        image: assets/img/timeline/bbw.jpg
+        image: assets/img/timeline/bbw.png
         alt: image alt text
       - title: "Lifeguard"
         year: "2023 to Now"
         desc: "Monitored safety of guests in and around swimming pool.I also gave swimming lessons to children and adults"
-        image: assets/img/timeline/pool.jpg
+        image: assets/img/timeline/pool.jpeg
         alt:
       - title: "Camp Counselor"
         year: "2020 to Now"
@@ -61,13 +61,6 @@ developmental levels. For the past 2 summers, I was the head monitor. Took care 
 organizing and planning the major games and activities for the camp."
         image: assets/img/timeline/fatima.png
         alt:
-      #- title: "Title"
-      #  year: "2009-2011"
-      #  desc: "Your description here, **Markdown** is fully supported."
-      #  image: assets/img/timeline/4.jpg
-      #  alt:
-      #  # you can enforce the alignment
-      #  align: right
     end: "To <br> be <br> Continued!"
 
   about:
@@ -80,40 +73,27 @@ My participation in hackathons, game jams, and programming clubs has allowed me 
 
   team:
     title: "Activities"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Computer science related activies that i took part in!"
     section: team
     people:
       - name: "Girls who code"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+        role: "A hackathon where we made a tool to help student revise for their exam."
+        image: assets/img/team/ghc.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: https://www.facebook.com/girlswhocodemcgill/
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
       - name: "JacHacks"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+        role: "The John Abbott College Hackathon, were my team coded an online art portfolio that incorporated AI."
+        image: assets/img/team/jacHacks.jpeg
         social:
-          - url: https://twitter.com
+          - url: https://jachacks.pages.dev
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
       - name: "Dingo GameJam"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+        role: "Vanier GameJam where we have to code a game in 48h."
+        image: assets/img/team/dingo.png
         social:
-          - url: https://twitter.com
+          - url: https://www.gamejamdingo.ca
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
 
   footer:
     legal: "Privacy Policy"
