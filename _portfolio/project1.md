@@ -9,7 +9,7 @@ caption:
   subtitle: Wellness app
   thumbnail: assets/img/portfolio/moodify.jpg
 ---
-[Markdown](https://en.wikipedia.org/wiki/Markdown)
+[Moodify Repository link](https://github.com/LauraaMolinaa/Moodify)
 
 Moodify is a health and wellness app that helps users track and improve their mental well-being.
 
